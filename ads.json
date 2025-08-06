@@ -2,7 +2,7 @@
     "enabled": true,
     "refresh_interval": 30,
     "messages": [
-        {"text": "Ваша реклама здесь", "url": "https://example.com"},
+        {"text": "AutoFlash Finder", "url": "https://t.me/Autoinfohub/47047"},
         {"text": "Другое предложение", "url": "https://example2.com"}
     ],
     "status_ads": [
