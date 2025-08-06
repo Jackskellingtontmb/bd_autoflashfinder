@@ -1,6 +1,6 @@
 {
     "enabled": true,
-    "refresh_interval": 5,
+    "refresh_interval": 10,
     "messages": [
         {"text": "AutoFlash Finder", "url": "https://t.me/Autoinfohub/47047"},
         {"text": "Здесь может быть ваша реклама", "url": "https://t.me/AutoiNFO_hub"}
