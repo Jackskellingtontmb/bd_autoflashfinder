@@ -1,6 +1,6 @@
 {
     "enabled": true,
-    "refresh_interval": 30,
+    "refresh_interval": 5,
     "menu_ad": "🔥 Спецпредложение! Кликните здесь!",
     "messages": [
         {
