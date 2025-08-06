@@ -1,5 +1,5 @@
 {
-    "enabled": false,
+    "enabled": true,
     "refresh_interval": 30,
     "messages": [
         {"text": "Ваша реклама здесь", "url": "https://example.com"},
