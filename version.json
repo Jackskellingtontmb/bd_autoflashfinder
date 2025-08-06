@@ -1,8 +1,9 @@
 {
     "version": "0.9.6",
-    "url": "https://disk.yandex.ru/d/yUPW7zxe-V3O-w",
+    "url": "https://disk.yandex.ru/d/Y11JGU9twmvTWg",
     "changelog": "Важные изминения:\n\n- Проверка не завершенных загрузок при запуске программы\n- Остаток мегабайт при скачивании\n- Горячие кнопки и контекстное меню Copy_Paste"
 }
+
 
 
 
