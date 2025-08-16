@@ -1,8 +1,8 @@
 {
-    "enabled": false,
+    "enabled": true,
     "refresh_interval": 30,
     "messages": [
-        {"text": "Донаты", "url": "https://t.me/Autoinfohub/47047"},
+        {"text": "AutoFlash Finder поиск прошивок", "url": "https://t.me/Autoinfohub/47047"},
         {"text": "Помощь в установки", "url": "https://t.me/AutoiNFO_hub"}
     ],
     
