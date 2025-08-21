@@ -1,23 +1,26 @@
 [
-    {"name": "VW_2025.05", "url": "https://disk.yandex.ru/d/v__o8PJtUs3WcA"},
-    {"name": "Audi_2025.05", "url": "https://disk.yandex.ru/d/aaIOYxwDTKwaXQ"},
-    {"name": "Seat_2025.05", "url": "https://disk.yandex.ru/d/Kvsft7K-oGErmA"},
-    {"name": "Skoda_2025.05", "url": "https://disk.yandex.ru/d/uvaKYxeA0TnycA"},
-    {"name": "Bentley_2025.05", "url": "https://disk.yandex.ru/d/EK6WFc43fe883g"},
-    {"name": "VAG_PCMFLASH", "url": "https://disk.yandex.ru/d/fenVuOaok09yLQ"},
-    {"name": "Multimedia_VAG", "url": "https://disk.yandex.ru/d/_QAVtSHZqRZZ5Q"},
-    {"name": "Русификация китай авто no pass", "url": "https://disk.yandex.ru/d/VkpoN0Ce3Np7mQ"},
-    {"name": "Прошивки СТОК", "url": "https://disk.yandex.ru/d/MjFKNuSFCEaCXA"},
-    {"name": "Прошивки RSW", "url": "https://disk.yandex.ru/d/goiPj-Vi-_ZiTw"},
-    {"name": "Прошивки Renault Paulus 100%", "url": "https://disk.yandex.ru/d/sG3V-5buPTjdyw"},
-    {"name": "Прошивки M86I", "url": "https://disk.yandex.ru/d/RwRd5qfzp3fatg"},
-    {"name": "Видео Уроки", "url": "https://disk.yandex.ru/d/cUHMKHl4cVit4g"},
-    {"name": "Диагностика", "url": "https://disk.yandex.ru/d/FlrZUV4XNQ2kJw"}
+    {"name": "VW_2025.05", "url": "https://disk.yandex.ru/d/v__o8PJtUs3WcA", "cache": true},
+    {"name": "Audi_2025.05", "url": "https://disk.yandex.ru/d/aaIOYxwDTKwaXQ", "cache": true},
+    {"name": "Seat_2025.05", "url": "https://disk.yandex.ru/d/Kvsft7K-oGErmA", "cache": true},
+    {"name": "Skoda_2025.05", "url": "https://disk.yandex.ru/d/uvaKYxeA0TnycA", "cache": true},
+    {"name": "Bentley_2025.05", "url": "https://disk.yandex.ru/d/EK6WFc43fe883g", "cache": true},
+    {"name": "VAG_PCMFLASH", "url": "https://disk.yandex.ru/d/fenVuOaok09yLQ", "cache": true},
+    {"name": "Multimedia_VAG", "url": "https://disk.yandex.ru/d/_QAVtSHZqRZZ5Q", "cache": true},
+    {"name": "Русификация китай авто no pass", "url": "https://disk.yandex.ru/d/VkpoN0Ce3Np7mQ", "cache": true},
+    {"name": "Прошивки СТОК", "url": "https://disk.yandex.ru/d/MjFKNuSFCEaCXA", "cache": true},
+    {"name": "Прошивки RSW", "url": "https://disk.yandex.ru/d/goiPj-Vi-_ZiTw", "cache": true},
+    {"name": "Прошивки Renault Paulus 100%", "url": "https://disk.yandex.ru/d/sG3V-5buPTjdyw", "cache": true},
+    {"name": "Прошивки M86I", "url": "https://disk.yandex.ru/d/RwRd5qfzp3fatg", "cache": true},
+    {"name": "Видео Уроки", "url": "https://disk.yandex.ru/d/cUHMKHl4cVit4g", "cache": false},
+    {"name": "Диагностика", "url": "https://disk.yandex.ru/d/FlrZUV4XNQ2kJw", "cache": false}
+
+    
     
     
     
     
 ]
+
 
 
 
