@@ -1,0 +1,11 @@
+requests>=2.25.1
+tkinter
+threading
+time
+random
+socket
+json
+hashlib
+datetime
+queue
+uuid
